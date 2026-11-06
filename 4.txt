@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bey...3
+=======
+bye3
+>>>>>>> feat/awesome1
 hello2
